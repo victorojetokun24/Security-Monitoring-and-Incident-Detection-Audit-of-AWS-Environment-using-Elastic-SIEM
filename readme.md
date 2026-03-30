@@ -90,13 +90,14 @@ The host's status was confirmed as "Isolated" in the Elastic SIEM Hosts overview
 
 ### OUTCOME
 
-![alt text](./img/isolated-host.png)
+![alt text](./img/Isolated-host.png)
 
+##
 
 ![alt text](./img/SSH_Terminated.png)
 
 
-### Root Cause Analysis (Preliminary)
+## Root Cause Analysis (Preliminary)
 
 The preliminary root cause appears to be a compromised user credential. The method of compromise is still under investigation but could include phishing, password reuse, or malware on a personal device. The lack of mandatory multi-factor authentication (MFA) for SSH access was a contributing factor that allowed the attacker to gain access with only the password.
 
