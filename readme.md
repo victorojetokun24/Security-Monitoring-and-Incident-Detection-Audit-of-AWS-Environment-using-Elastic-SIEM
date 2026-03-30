@@ -2,7 +2,7 @@
 Incident Report: Unauthorized SSH Access Attempt
 Report Date: October 2nd, 2025
 Author: Ojetokun Victor Ifeoluwa
-AltSchool ID: ALT-SOE-024-2887
+ID: ALT-SOE-024-2887
 Status: Contained
 Department: SOC-Tier 1 Unit
 ---
