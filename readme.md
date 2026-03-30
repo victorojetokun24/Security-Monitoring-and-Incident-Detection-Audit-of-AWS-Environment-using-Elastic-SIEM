@@ -26,17 +26,17 @@ October 2, 2025	15:35	Investigation: Log analysis initiated to determine the sco
 ```
 ## Scope of Impact
 
-## Affected System:
+### Affected System:
 ```
 - Hostname: ec2-user 
--	EC2 Instance ID: i-0000f7f8cbbc70ee3
--	IP Address: 172.31.24.129
+- EC2 Instance ID: i-0000f7f8cbbc70ee3
+- IP Address: 172.31.24.129
 ```
 
 ## Affected Account:
 
 ```
--	Username: victor-ojetokun
+- Username: victor-ojetokun
 ```
 
 ## Detection
